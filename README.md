@@ -53,7 +53,7 @@ This is the one and only official AuraXBot Userbot made by @AuraXNetwork. Don't 
 ```
 Get help regarding setting up 
 
-your Äµråxßð† in our official 
+your AuraXBot in our official 
 
 support Group and get updates
 
