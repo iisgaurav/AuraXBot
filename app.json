@@ -9,8 +9,8 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/AuraXNetwork/AuraXBot/",
-  "website": "https://github.com/AuraXNetwork/AuraXBot/",
+  "repository": "https://github.com/PyCodents/AuraXBot/",
+  "website": "https://github.com/PyCodents/AuraXBot/",
   "success_url": "https://t.me/AuraXUserbot",
   "env": {
     "ENV": {
