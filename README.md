@@ -22,7 +22,7 @@ This is the one and only official AuraXBot Userbot made by @AuraXNetwork. Don't 
 <h3> StringSession </h3>
 
 
-[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@itzgauravv/AuraXBot#main.py) 
+[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@iisgaurav/AuraXBot#main.py) 
 
     - Click On Generate String
     - Then Click On Green Run Button.
