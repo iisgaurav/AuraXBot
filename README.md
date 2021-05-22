@@ -3,7 +3,7 @@
 
 <h2>This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram. All credits goes to its Respective Owners.
 
-This is the one and only official AuraXBot Userbot made by @AuraXNetwork. Don't forget to star this repo if you liked it. Enjoy Your Bot!!💝</h2>
+This is the one and only official AuraXBot Userbot made by @iisgaurav. Don't forget to star this repo if you liked it. Enjoy Your Bot!!💝</h2>
 
 [![AuraXBot logo](https://telegra.ph/file/62b6e6a1bb6ed711401ce.jpg)](https://t.me/AuraXUserbot)
 
