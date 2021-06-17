@@ -1,7 +1,7 @@
 <h1 align="center">⚡ 𝐀 𝐔 𝐑 𝐀 𝐗 𝐁 𝐎 𝐓 ⚡</h1>
 
 
-<h2>This is the one and only official AuraXUserbot made by @iisgaurav. Don't forget to star this repo if you liked it.!!💝</h2>
+<h2>Don't forget to star this repo if you liked it.!!💝</h2>
 
 [![AuraXBot logo](https://telegra.ph/file/62b6e6a1bb6ed711401ce.jpg)](https://t.me/AuraXUserbot)
 
