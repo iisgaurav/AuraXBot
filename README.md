@@ -66,9 +66,8 @@ notifications in Update Channel.
 [![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/AuraXOwner)
 
 
-<details>
 
-  <summary> • LICENSE • </summary>
+<h2> • LICENSE • </h2>
 
 ![](https://www.gnu.org/graphics/gplv3-or-later.png)
 
@@ -94,7 +93,6 @@ You should have received a copy of the GNU General Public License
 
 along with this program. If not, see <https://www.gnu.org/licenses/>.
 
-</details>
 
 <details>
 
