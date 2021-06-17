@@ -94,9 +94,8 @@ You should have received a copy of the GNU General Public License
 along with this program. If not, see <https://www.gnu.org/licenses/>.
 
 
-<details>
 
-  <summary> • Credits 🏅 • </summary>
+  <h2> • Credits 🏅 • </h2>
 
 • [JaaduBot](https://github.com/Amberyt/JaaduBot)
 
