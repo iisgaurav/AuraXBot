@@ -1,34 +1,21 @@
+#!/usr/bin/env python3
+# (c) https://t.me/TelethonChat/37677
+# This Source Code Form is subject to the terms of the GNU
+# General Public License, v.3.0. If a copy of the GPL was not distributed with this
+# file, You can obtain one at https://www.gnu.org/licenses/gpl-3.0.en.html.
+
 from telethon.sessions import StringSession
 from telethon.sync import TelegramClient
 
-print("")
-print("""Welcome To AuraXBot String Session\nGenerator By @AuraXOwner\n\n""")
-print("""Enter Your Valid Details To Continue!\n\n """)
+print(
+    """Please go-to my.telegram.org
+Login using your Telegram account
+Click on API Development Tools
+Create a new application, by entering the required details"""
+)
+APP_ID = int(input("Enter APP ID here: "))
+API_HASH = input("Enter API HASH here: ")
 
-API_KEY = input("API_ID:  ")
-API_HASH = input("API_HASH:  ")
-
-while True:
-    try:
-        with TelegramClient(StringSession(), API_KEY, API_HASH) as client:
-            print(
-                "String Session Sucessfully Sent To Your Saved Message, Store It To A Safe Place!!\n\n "
-            )
-            print("")
-            session = client.session.save()
-            client.send_message(
-                "me",
-                f"Here is your TELEGRAM STRING SESSION\n(Tap to copy it) \n\n `{session}` \n\n And Visit @AuraXSupport For Any Help!\n\n",
-            )
-
-            print(
-                "Thanks for Choosing AuraXBot Have A Good Time....Note That When You Terminate the Old Session ComeBack And Genrate A New String Session Old One Wont Work"
-            )
-    except:
-        print("")
-        print(
-            "Wrong phone number \n make sure its with correct country code. Example : +918925534834! Kindly Retry"
-        )
-        print("")
-        continue
-    break
+with TelegramClient(StringSession(), APP_ID, API_HASH) as client:
+    print(client.session.save())
+    client.send_message("me", client.session.save())
