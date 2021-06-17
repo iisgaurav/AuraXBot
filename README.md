@@ -1,4 +1,4 @@
-<h1 align="center">⚡ A U R A X B O T ⚡</h1>
+<h1 align="center">⚡ 𝐀 𝐔 𝐑 𝐀 𝐗 𝐁 𝐎 𝐓 ⚡</h1>
 
 
 <h2>This is the one and only official AuraXUserbot made by @iisgaurav. Don't forget to star this repo if you liked it.!!💝</h2>
