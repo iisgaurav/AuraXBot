@@ -1,4 +1,4 @@
-FROM sandy1709/catuserbot:alpine
+FROM errorshivansh/AuraXBot:latest
 
 #clonning repo 
 RUN git clone https://github.com/iisgaurav/AuraXUserbot.git /root/userbot
